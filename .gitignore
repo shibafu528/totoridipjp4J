@@ -2,4 +2,5 @@
 *.iml
 /out
 .gradle
-/build
+/build/*
+!/build/repo
